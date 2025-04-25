@@ -1,0 +1,8 @@
+Package: repo2dockerProject
+Type: Package
+Title: Executable OSF Environment
+Version: 1.0
+Authors@R: c(person("Maintainer", "Example", email = "maintainer@example.com", role = c("aut", "cre")))
+Description: Automatically generated DESCRIPTION file for Repo2Docker.
+License: See license and authorship information at https://osf.io/xhrw6/
+Imports: Amelia, Hmisc, UpSetR, car, corrplot, descr, dplyr, ggpubr, gt, haven, here, lavaan, lm.beta, lubridate, mice, pscl, psych, readxl, semTable, semTools, sjPlot, sjmisc, stargazer, tibble, tidySEM, tidyr, tidyverse, xtable, 
